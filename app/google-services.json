@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "170731471787",
+    "firebase_url": "https://librarysystem-14b1e.firebaseio.com",
+    "project_id": "librarysystem-14b1e",
+    "storage_bucket": "librarysystem-14b1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170731471787:android:397772a0281b4c2b",
+        "android_client_info": {
+          "package_name": "a.librarysystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170731471787-8bl25nnfdsc23g5dgltoooia9qb7u0re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1a7icWaysEr52EX93A5zHnL5gwxVkwOI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

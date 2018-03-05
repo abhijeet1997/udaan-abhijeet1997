@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="a.librarysystem.MainActivity">
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:orientation="vertical">
+
+       <Button
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:id="@+id/search"
+           android:text="Search"
+           android:layout_marginLeft="20dp"
+           android:layout_marginRight="20dp"
+           />
+
+       <Button
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:id="@+id/reserve"
+           android:text="Reserve"
+           android:layout_marginLeft="20dp"
+           android:layout_marginRight="20dp"
+           />
+
+       <Button
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:id="@+id/bookreturn"
+           android:text="Record Return"
+           android:layout_marginLeft="20dp"
+           android:layout_marginRight="20dp"
+           />
+
+
+   </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+</android.support.constraint.ConstraintLayout>
